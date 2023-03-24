@@ -42,7 +42,7 @@ Demo
 9. Насыщенность шрифта https://code-basics.com/ru/languages/css/lessons/font-weight
 10. Курсив https://github.com/sproshchaev/html-css/tree/main/font-style
 11. Капитель https://github.com/sproshchaev/html-css/tree/main/font-variant
-
+12. Горизонтальная черта https://code-basics.com/ru/languages/css/lessons/text-decoration
     
 
 
