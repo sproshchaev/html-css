@@ -43,7 +43,7 @@ Demo
 10. Курсив https://github.com/sproshchaev/html-css/tree/main/font-style
 11. Капитель https://github.com/sproshchaev/html-css/tree/main/font-variant
 12. Горизонтальная черта https://github.com/sproshchaev/html-css/tree/main/text-decoration
-13. Межстрочный интервал https://code-basics.com/ru/languages/css/lessons/line-height
+13. Размер шрифта и межстрочный интервал https://github.com/sproshchaev/html-css/tree/main/line-height
     
 
 
