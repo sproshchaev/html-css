@@ -44,6 +44,7 @@ Demo
 11. Капитель https://github.com/sproshchaev/html-css/tree/main/font-variant
 12. Горизонтальная черта https://github.com/sproshchaev/html-css/tree/main/text-decoration
 13. Размер шрифта и межстрочный интервал https://github.com/sproshchaev/html-css/tree/main/line-height
+14. Семейство шрифта https://code-basics.com/ru/languages/css/lessons/font-family
     
 
 
