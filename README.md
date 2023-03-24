@@ -31,5 +31,16 @@ Demo
 25. Микроразметка https://github.com/sproshchaev/html-css
 
 #### CSS
+1. CSS в HTML 
+2. Запись стилей в теге style https://code-basics.com/ru/languages/css/lessons/style
+3. Базовые стили тегов https://code-basics.com/ru/languages/css/lessons/basics-style 
+4. Классы https://code-basics.com/ru/languages/css/lessons/selectors-by-class
+5. Селекторы https://code-basics.com/ru/languages/css/lessons/selectors 
+6. Цвета https://code-basics.com/ru/languages/css/lessons/color 
+7. Выравнивание текста https://code-basics.com/ru/languages/css/lessons/text-align
+8. Размер шрифта https://code-basics.com/ru/languages/css/lessons/font-size 
+9. Насыщенность шрифта https://code-basics.com/ru/languages/css/lessons/font-weight
+10. Курсив https://code-basics.com/ru/languages/css/lessons/font-style
+    
 
 
