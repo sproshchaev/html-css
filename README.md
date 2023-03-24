@@ -40,7 +40,7 @@ Demo
 7. Выравнивание текста https://code-basics.com/ru/languages/css/lessons/text-align
 8. Размер шрифта https://code-basics.com/ru/languages/css/lessons/font-size 
 9. Насыщенность шрифта https://code-basics.com/ru/languages/css/lessons/font-weight
-10. Курсив https://code-basics.com/ru/languages/css/lessons/font-style
+10. Курсив https://github.com/sproshchaev/html-css/tree/main/font-style
     
 
 
