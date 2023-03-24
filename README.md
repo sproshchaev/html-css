@@ -41,7 +41,7 @@ Demo
 8. Размер шрифта https://code-basics.com/ru/languages/css/lessons/font-size 
 9. Насыщенность шрифта https://code-basics.com/ru/languages/css/lessons/font-weight
 10. Курсив https://github.com/sproshchaev/html-css/tree/main/font-style
-11. Капитель https://code-basics.com/ru/languages/css/lessons/font-variant 
+11. Капитель https://github.com/sproshchaev/html-css/tree/main/font-variant
 
     
 
