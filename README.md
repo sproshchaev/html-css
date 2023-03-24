@@ -6,9 +6,9 @@ Demo
 #### HTML5
 1. Базовая структура, метатеги, Viewport, Шапка https://code-basics.com/ru/languages/html/lessons/basics https://code-basics.com/ru/languages/html/lessons/meta https://code-basics.com/ru/languages/html/lessons/viewport  
 2. Блочные элементы: параграфы, списки, <pre>, <div>, заголовки, таблицы. Строчные элементы: <a>, <b>, <strong>, <i>, <em>, картинки, <span> https://code-basics.com/ru/languages/html/lessons/block
-3. Начертание текста: жирное и курсивное
-4. Списки: маркированный и нумерованный, вложенные списки
-5. Таблицы: область таблицы, шапка, тело, строка, ячейка, объединение ячеек 
+3. Начертание текста: жирное и курсивное https://code-basics.com/ru/languages/html/lessons/text-style 
+4. Списки: маркированный и нумерованный, вложенные списки https://code-basics.com/ru/languages/html/lessons/lists https://code-basics.com/ru/languages/html/lessons/nested-lists 
+5. Таблицы: область таблицы, шапка, тело, строка, ячейка, объединение ячеек https://code-basics.com/ru/languages/html/lessons/table https://code-basics.com/ru/languages/html/lessons/colspan-rowspan  
 6. Специальные символы https://code-basics.com/ru/languages/html/lessons/special-characters
 7. Ссылки, фавиконки (link) https://code-basics.com/ru/languages/html/lessons/links https://code-basics.com/ru/languages/html/lessons/link 
 8. Форматированный текст, вставка примера кода в html https://code-basics.com/ru/languages/html/lessons/pre
@@ -29,7 +29,6 @@ Demo
 23. Боковая панель https://code-basics.com/ru/languages/html/lessons/aside 
 24. Семантическая разметка https://code-basics.com/ru/languages/html/lessons/semantics 
 25. Микроразметка https://github.com/sproshchaev/html-css
-26. 
 
 #### CSS
 
