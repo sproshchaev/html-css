@@ -49,6 +49,7 @@ Demo
 16. Базовые правила типографики https://github.com/sproshchaev/html-css/tree/main/conclusion ФОНТ
 17. Рамки https://github.com/sproshchaev/html-css/tree/main/border-style
 18. Фон https://github.com/sproshchaev/html-css/tree/main/background
+19. Внутренние отступы https://github.com/sproshchaev/html-css/tree/main/padding
     
 
 
