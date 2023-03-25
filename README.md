@@ -51,6 +51,8 @@ Demo
 18. Фон https://github.com/sproshchaev/html-css/tree/main/background
 19. Внутренние отступы https://github.com/sproshchaev/html-css/tree/main/padding
 20. Внешние отступы https://github.com/sproshchaev/html-css/tree/main/margin
+21. Высота и ширина блока https://github.com/sproshchaev/html-css/tree/main/height-and-width
+22. 
     
 
 
