@@ -47,6 +47,8 @@ Demo
 14. Семейство шрифта https://github.com/sproshchaev/html-css/tree/main/font-family ФОНТ
 15. Правило для шрифтов https://github.com/sproshchaev/html-css/tree/main/font ФОНТ
 16. Базовые правила типографики https://github.com/sproshchaev/html-css/tree/main/conclusion ФОНТ
+17. Рамки https://github.com/sproshchaev/html-css/tree/main/border-style
+18. 
     
 
 
