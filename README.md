@@ -22,7 +22,7 @@ Demo
 16. Textarea https://code-basics.com/ru/languages/html/lessons/textarea
 17. Список https://code-basics.com/ru/languages/html/lessons/select
 18. Отправка формы https://code-basics.com/ru/languages/html/lessons/button
-19. Семантические теги: <article>, <aside>, <footer>, <header>, <main>, <nav>, <section> https://code-basics.com/ru/languages/html/lessons/semantic-elements https://code-basics.com/ru/languages/html/lessons/semantics-header  
+19. Семантические теги: article, aside, footer, header, main, nav, section https://code-basics.com/ru/languages/html/lessons/semantic-elements https://code-basics.com/ru/languages/html/lessons/semantics-header  
 20. Меню https://code-basics.com/ru/languages/html/lessons/nav
 21. Уникальный контент страницы https://code-basics.com/ru/languages/html/lessons/main
 22. Секция, Самостоятельная секция https://code-basics.com/ru/languages/html/lessons/section https://code-basics.com/ru/languages/html/lessons/article
