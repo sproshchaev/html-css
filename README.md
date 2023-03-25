@@ -45,7 +45,7 @@ Demo
 12. Горизонтальная черта https://github.com/sproshchaev/html-css/tree/main/text-decoration
 13. Размер шрифта и межстрочный интервал https://github.com/sproshchaev/html-css/tree/main/line-height
 14. Семейство шрифта https://github.com/sproshchaev/html-css/tree/main/font-family ФОНТ
-15. Правило для шрифтов https://code-basics.com/ru/languages/css/lessons/font ФОНТ
+15. Правило для шрифтов https://github.com/sproshchaev/html-css/tree/main/font ФОНТ
     
 
 
