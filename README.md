@@ -46,6 +46,7 @@ Demo
 13. Размер шрифта и межстрочный интервал https://github.com/sproshchaev/html-css/tree/main/line-height
 14. Семейство шрифта https://github.com/sproshchaev/html-css/tree/main/font-family ФОНТ
 15. Правило для шрифтов https://github.com/sproshchaev/html-css/tree/main/font ФОНТ
+16. Базовые правила типографики https://code-basics.com/ru/languages/css/lessons/conclusion ФОНТ
     
 
 
