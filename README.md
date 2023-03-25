@@ -5,7 +5,7 @@ Demo
 
 #### HTML5
 1. Базовая структура, метатеги, Viewport, Шапка https://code-basics.com/ru/languages/html/lessons/basics https://code-basics.com/ru/languages/html/lessons/meta https://code-basics.com/ru/languages/html/lessons/viewport  
-2. Блочные элементы: параграфы, списки, <pre>, <div>, заголовки, таблицы. Строчные элементы: <a>, <b>, <strong>, <i>, <em>, картинки, <span> https://code-basics.com/ru/languages/html/lessons/block
+2. Блочные элементы: параграфы, списки, pre, div, заголовки, таблицы. Строчные элементы: a, b, strong, i, em, картинки, span https://code-basics.com/ru/languages/html/lessons/block
 3. Начертание текста: жирное и курсивное https://code-basics.com/ru/languages/html/lessons/text-style 
 4. Списки: маркированный и нумерованный, вложенные списки https://code-basics.com/ru/languages/html/lessons/lists https://code-basics.com/ru/languages/html/lessons/nested-lists 
 5. Таблицы: область таблицы, шапка, тело, строка, ячейка, объединение ячеек https://code-basics.com/ru/languages/html/lessons/table https://code-basics.com/ru/languages/html/lessons/colspan-rowspan  
