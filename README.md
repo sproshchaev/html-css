@@ -38,13 +38,14 @@ Demo
 5. Селекторы https://code-basics.com/ru/languages/css/lessons/selectors 
 6. Цвета https://code-basics.com/ru/languages/css/lessons/color 
 7. Выравнивание текста https://code-basics.com/ru/languages/css/lessons/text-align
-8. Размер шрифта https://code-basics.com/ru/languages/css/lessons/font-size 
-9. Насыщенность шрифта https://code-basics.com/ru/languages/css/lessons/font-weight
-10. Курсив https://github.com/sproshchaev/html-css/tree/main/font-style
-11. Капитель https://github.com/sproshchaev/html-css/tree/main/font-variant
+8. Размер шрифта https://code-basics.com/ru/languages/css/lessons/font-size ФОНТ
+9. Насыщенность шрифта https://code-basics.com/ru/languages/css/lessons/font-weight ФОНТ
+10. Курсив https://github.com/sproshchaev/html-css/tree/main/font-style ФОНТ
+11. Капитель https://github.com/sproshchaev/html-css/tree/main/font-variant ФОНТ
 12. Горизонтальная черта https://github.com/sproshchaev/html-css/tree/main/text-decoration
 13. Размер шрифта и межстрочный интервал https://github.com/sproshchaev/html-css/tree/main/line-height
-14. Семейство шрифта https://github.com/sproshchaev/html-css/tree/main/font-family
+14. Семейство шрифта https://github.com/sproshchaev/html-css/tree/main/font-family ФОНТ
+15. Правило для шрифтов https://code-basics.com/ru/languages/css/lessons/font ФОНТ
     
 
 
