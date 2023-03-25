@@ -50,6 +50,7 @@ Demo
 17. Рамки https://github.com/sproshchaev/html-css/tree/main/border-style
 18. Фон https://github.com/sproshchaev/html-css/tree/main/background
 19. Внутренние отступы https://github.com/sproshchaev/html-css/tree/main/padding
+20. Внешние отступы https://github.com/sproshchaev/html-css/tree/main/margin
     
 
 
