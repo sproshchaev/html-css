@@ -30,7 +30,7 @@ Demo
 24. Семантическая разметка https://code-basics.com/ru/languages/html/lessons/semantics 
 25. Микроразметка https://github.com/sproshchaev/html-css
 
-#### CSS
+#### CSS3
 1. CSS в HTML 
 2. Запись стилей в теге style https://code-basics.com/ru/languages/css/lessons/style
 3. Базовые стили тегов https://code-basics.com/ru/languages/css/lessons/basics-style 
@@ -57,4 +57,5 @@ Demo
 24. Цветовая модель RGB https://github.com/sproshchaev/html-css/tree/main/colors
 25. Медиа запросы https://github.com/sproshchaev/html-css/tree/main/media
 26. Анимация https://github.com/sproshchaev/html-css/tree/main/animation
+27. Переменные https://code-basics.com/ru/languages/css/lessons/varibles
     
