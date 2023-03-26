@@ -57,5 +57,6 @@ Demo
 24. Цветовая модель RGB https://github.com/sproshchaev/html-css/tree/main/colors
 25. Медиа запросы https://github.com/sproshchaev/html-css/tree/main/media
 26. Анимация https://github.com/sproshchaev/html-css/tree/main/animation
-27. Переменные https://code-basics.com/ru/languages/css/lessons/varibles
+27. Переменные https://github.com/sproshchaev/html-css/tree/main/varibles
+28. Позиционирование https://github.com/sproshchaev/html-css/tree/main/position
     
