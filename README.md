@@ -60,3 +60,5 @@ Demo
 27. Переменные https://github.com/sproshchaev/html-css/tree/main/varibles
 28. Позиционирование https://github.com/sproshchaev/html-css/tree/main/position
     
+29. Flex и Grid https://github.com/sproshchaev/html-css/tree/main/flex-grid
+    
