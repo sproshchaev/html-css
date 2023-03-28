@@ -71,9 +71,10 @@
 ```
 ### References
 1. JS/FE 2021Q3 Stage#1 CSS/Grid https://www.youtube.com/watch?v=0wnTkMeOTv0
-2. Основные понятия Grid Layout https://developer.mozilla.org/ru/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout
-3. Полное руководство по CSS Grid https://tuhub.ru/posts/css-grid-complete-guide
-4. Вёрстка на Grid в CSS. Полное руководство и справочник http://bit.ly/40kbfGm 
-5. CSS Grid #0 Введение в курс (Introduction) http://bit.ly/3JQRorg 
-6. Изучение гридов посредством игры https://cssgridgarden.com/#ru
-7. Расположение элементов во flex https://youtu.be/iSQcOjxttNg
+2. Расположение элементов во flex (видео по слайдам) https://youtu.be/iSQcOjxttNg?list=PLe--kalBDwji8WXKVjhON39X4v_Uj6T_R&t=2053
+3. Основные понятия Grid Layout https://developer.mozilla.org/ru/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout
+4. Полное руководство по CSS Grid https://tuhub.ru/posts/css-grid-complete-guide
+5. Вёрстка на Grid в CSS. Полное руководство и справочник http://bit.ly/40kbfGm 
+6. CSS Grid #0 Введение в курс (Introduction) http://bit.ly/3JQRorg 
+7. Изучение гридов посредством игры https://cssgridgarden.com/#ru
+
