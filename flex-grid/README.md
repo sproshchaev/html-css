@@ -76,3 +76,4 @@
 4. Вёрстка на Grid в CSS. Полное руководство и справочник http://bit.ly/40kbfGm 
 5. CSS Grid #0 Введение в курс (Introduction) http://bit.ly/3JQRorg 
 6. Изучение гридов посредством игры https://cssgridgarden.com/#ru
+7. Расположение элементов во flex https://youtu.be/iSQcOjxttNg
