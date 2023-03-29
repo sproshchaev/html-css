@@ -1,0 +1,82 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+header {
+  width: 100%;
+  background: lightblue;
+}
+
+header li {
+  display: inline-block; /* выстроить меню в одну строку*/
+  margin-left: 15px;
+}
+
+header a {
+  text-decoration: none; /* чтобы ссылки не подчеркивались снизу */
+}
+
+.header-wrap {
+  width: 960px;
+  margin: 0 auto; /* отцентрировать блочный элемент по горизонтали */
+  display: flex; /* расположить элементы горизонтально  */
+  justify-content: space-between; /* input справа */
+}
+
+input {
+  margin-top: 15px;
+  margin: auto;
+}
+
+main {
+  display: flex;
+  width: 75%;
+  margin: 0 auto;
+}
+
+section {
+  width: 70%;
+}
+
+aside {
+  width: 30%;
+}
+
+.post-item {
+  display: inline-block;
+  width: 23%;
+}
+
+/* Если ширина экрана становиться менее 980 px - вступают эти стили */
+@media screen and (max-width: 800px) {
+  input {
+    display: none;
+  }
+}
+
+/* Если ширина экрана становиться менее 800 px - вступают эти стили*/
+@media screen and (max-width: 800px) {
+  .post-item {
+    width: 30%;
+  }
+}
+
+/* Если ширина экрана становиться менее 600 px - вступают эти стили*/
+@media screen and (max-width: 600px) {
+  .post-item {
+    width: 40%;
+  }
+  /* Если ширина экрана становиться менее 600 px - блок aside должен уходить вниз экрана */
+  main {
+    flex-direction: column;
+  }
+
+  section {
+    width: 90%;
+  }
+
+  aside {
+    width: 100%;
+  }
+}
