@@ -62,3 +62,6 @@ Demo
     
 29. Flex и Grid https://github.com/sproshchaev/html-css/tree/main/flex-grid
 30. SASS https://github.com/sproshchaev/html-css/tree/main/sass
+    
+31. Figma https://github.com/sproshchaev/html-css/tree/main/figma-demo
+    
