@@ -13,6 +13,7 @@
 3. Настройка стилей в style.css
     1) параметры .item для блока <div>
     2) добавить box-sizing для html (это правильный способ подключения, который не сказывается на производительности): html {box-sizing: border-box;} *, *::before, *::after{box-sizing: inherit;}
+    3) для сокращения времени зугрузки объединить файлы style.css и reset.css (перенести все в style.css)
 
 ```
 ### References
