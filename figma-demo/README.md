@@ -3,7 +3,16 @@
 
 ### Figma
 ```
-Файл reset.css необходим для обнуления всех стилей https://bit.ly/ResetCss
+1. Файл css/reset.css необходим для обнуления всех стилей https://bit.ly/ResetCss
+2. Добавление шрифтов: google-webfonts-helper — сервис для сохранения шрифтов из Google Fonts https://gwfh.mranftl.com/fonts
+    1) Lato (sans-serif), Select styles: regular, 700, 900. 
+    2) Copy CSS: Modern Browsers. Customize folder prefix (optional): ../fonts/
+    3) создать style.css и скопировать в него все @font-face-ы для подключения шрифтов
+    4) Download files: копируем все шрифты в ../fonts/
+    5) В html подключить style.css <link rel="stylesheet" href="./css/style.css">
+3. Настройка стилей в style.css
+    1) параметры .item для блока <div>
+    2) добавить box-sizing для html (это правильный способ подключения, который не сказывается на производительности): html {box-sizing: border-box;} *, *::before, *::after{box-sizing: inherit;}
 
 ```
 ### References
