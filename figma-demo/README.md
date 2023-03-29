@@ -19,3 +19,4 @@
 ### References
 1. Figma https://www.youtube.com/watch?v=OkNfBnq_c7c&list=PL5_s7xdj2Vsw-bCx5nOZJMFIiHwRgok--
 2. Файл reset.css https://gist.github.com/DavidWells/18e73022e723037a50d6
+3. Вертикальное меню для сайта https://html5book.ru/vertikalnoe-menu/
