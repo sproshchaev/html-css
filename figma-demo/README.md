@@ -20,3 +20,4 @@
 1. Figma https://www.youtube.com/watch?v=OkNfBnq_c7c&list=PL5_s7xdj2Vsw-bCx5nOZJMFIiHwRgok--
 2. Файл reset.css https://gist.github.com/DavidWells/18e73022e723037a50d6
 3. Вертикальное меню для сайта https://html5book.ru/vertikalnoe-menu/
+4. Вёрстка сайта с НУЛЯ по шаблону для начинающих https://www.youtube.com/watch?v=_TM6G5C37m0&list=PLnMj__TQhCpHjcY5UiqRMPcKQW1BxF1Nq&index=2
