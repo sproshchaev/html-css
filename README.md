@@ -69,3 +69,6 @@ Demo
 31. Figma https://github.com/sproshchaev/html-css/tree/main/figma-demo
 
 32. Media Queries & Responsive https://github.com/sproshchaev/html-css/tree/main/media-queries
+
+### References
+1. HTMLBASE - самый современный справочник по HTML и CSS https://htmlbase.ru/
