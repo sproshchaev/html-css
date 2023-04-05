@@ -18,7 +18,7 @@ Demo
 9.  Изображения https://code-basics.com/ru/languages/html/lessons/img
 10. Аудио (audio) https://code-basics.com/ru/languages/html/lessons/audio
 11. Видео (video) https://code-basics.com/ru/languages/html/lessons/video
-12. Формы <form> https://code-basics.com/ru/languages/html/lessons/form-basics 
+12. Формы <form> https://github.com/sproshchaev/html-css/tree/main/form-basics 
 13. Поле для ввода текста https://code-basics.com/ru/languages/html/lessons/input
 14. Чекбокс https://code-basics.com/ru/languages/html/lessons/checkbox
 15. Радиокнопка https://code-basics.com/ru/languages/html/lessons/radio
@@ -31,7 +31,7 @@ Demo
 22. Секция, Самостоятельная секция https://code-basics.com/ru/languages/html/lessons/section https://code-basics.com/ru/languages/html/lessons/article
 23. Боковая панель https://code-basics.com/ru/languages/html/lessons/aside 
 24. Семантическая разметка https://code-basics.com/ru/languages/html/lessons/semantics 
-25. Микроразметка https://github.com/sproshchaev/html-css
+25. Микроразметка https://code-basics.com/ru/languages/html/lessons/microdata
 
 #### CSS3
 1. CSS в HTML 

@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>HTML&CSS</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <!-- Пример 1 открытие формы на этой же странице браузера -->
+  <div>
+    <p>
+      1. Пример формы у которой файл с обработчиком данных лежит по адресу https://www.w3schools.com/action_page.php:
+    </p>
+    <p class="verdana-text">
+    <form action="https://www.w3schools.com/action_page.php" target="_self">
+      <input type="submit" value="Submit">
+    </form>
+    </p>
+  </div>
+
+  <!-- Пример 2 target: _blank - открытие формы на новой странице браузера -->
+  <div>
+    <p>
+      2. Пример формы у которой файл с обработчиком данных лежит по адресу https://www.w3schools.com/action_page.php и
+      target: _blank:
+    </p>
+    <form action="https://www.w3schools.com/action_page.php" target="_blank">
+      <input type="submit" value="Submit">
+    </form>
+  </div>
+
+  <!-- Пример 3 target: _parent или _top - открытие формы на новой странице браузера с закрытием страницы откуда был сделан вызов -->
+  <div>
+    <p>
+      3. Пример формы у которой файл с обработчиком данных лежит по адресу https://www.w3schools.com/action_page.php и
+      target: _parent:
+    </p>
+    <form action="https://www.w3schools.com/action_page.php" target="_parent">
+      <input type="submit" value="Submit">
+    </form>
+  </div>
+
+  <!-- Пример 4 method: get в виде строки "value1=John&value2=Brown" длинной до 2048 символов в открытом виде -->
+  <div>
+    <p>
+      4. Пример формы у которой файл с обработчиком данных лежит по адресу https://www.w3schools.com/action_page.php и
+      данные передаются методом GET в виде строки "value1=John&value2=Brown" длинной до 2048 символов в открытом виде
+    </p>
+    <form action="https://www.w3schools.com/action_page.php" target="_blank" method="get">
+      <input type="text" id="input1" name="value1" value="John">
+      <input type="text" id="input2" name="value2" value="Brown">
+      <input type="submit" value="Submit">
+    </form>
+  </div>
+
+  <!-- Пример 5 method: post передает любые данные, размер запроса не ограничен -->
+  <div>
+    <p>
+      5. Пример формы у которой файл с обработчиком данных лежит по адресу https://www.w3schools.com/action_page.php и
+      данные передаются методом POST передает любые данные, размер запроса не ограничен!
+    </p>
+    <form action="https://www.w3schools.com/action_page.php" target="_blank" method="post">
+      <input type="text" id="input3" name="login" value="user">
+      <input type="text" id="input4" name="password" value="12345">
+      <input type="submit" value="Submit">
+    </form>
+  </div>
+
+  <!-- Пример 6 виды input-ов -->
+  <div>
+    <p>
+      6. Пример формы с различными input-ами (значение type): дата, время, e-mail, url, number, tel, color, hidden (скрытый), radio,
+      checkbox
+    </p>
+    <form action="https://www.w3schools.com/action_page.php" target="_blank" method="get">
+      <input type="date" name="date">
+      <input type="time" name="time">
+      <input type="email" name="e-mail">
+      <input type="url" name="url" required>
+      <input type="number" name="value3">
+      <input type="tel" name="phone">
+      <input type="color" name="color">
+      <input type="hidden" name="hidden">
+      <input type="radio" name="day" value="пн-птн" checked>пн-птн
+      <input type="radio" name="day" value="сб-вскр">сб-вскр
+      <input type="checkbox" name="day2" value="пн-птн" checked>пн-птн
+      <input type="checkbox" name="day2" value="сб-вскр" disabled>сб-вскр
+      <input type="checkbox" name="day2" value="пн-вт" required>сб-вскр
+      <input type="submit" value="Submit">
+    </form>
+  </div>
+
+  <!-- Пример 7 textarea -->
+  <div>
+    <p>
+      7. Пример формы с textarea с ограничением cols=50 rows=5 и запретом на изменение размера resize: none и
+      ограничением ввода в 50 символов maxlength=50
+    </p>
+    <form action="https://www.w3schools.com/action_page.php" target="_blank" method="get">
+      <textarea name="comment" cols="50" rows="5" style="resize: none;" maxlength="50">Comment</textarea>
+    </form>
+
+  </div>
+
+  <!-- Пример 8 тэг select -->
+  <div>
+    <p>
+      8. Пример формы с тэгом select. Опция multiple позволяет выбрать несколько вариантов
+    </p>
+    <form action="https://www.w3schools.com/action_page.php" target="_blank" method="get">
+      <select name="day3" id="select1" multiple>
+        <option value="Понедельник" selected>Пятница</option>
+        <option value="Вторник" selected>Вторник</option>
+        <option value="Среда" selected>Среда</option>
+      </select>
+    </form>
+
+  </div>
+
+  <!-- Пример 9 Submit: вариант №1. Для отправки данных из формы требуется <input type="submit" value="Submit"> -->
+  <div>
+    <p>
+      9. Пример формы с кнопкой submit: вариант №1 - для отправки данных необходимо у нее указать: type="submit"
+      value="Submit"
+    </p>
+    <form action="https://www.w3schools.com/action_page.php" target="_blank">
+      <input type="text" id="input5" name="parameter" value="12345">
+      <input type="submit" value="Submit">
+    </form>
+  </div>
+
+
+  <!-- Пример 10 Submit: вариант №2. -->
+  <div>
+    <p>
+      10. Пример формы с кнопкой submit: вариант №2 (button)
+    </p>
+    <form action="https://www.w3schools.com/action_page.php" target="_blank">
+      <input type="text" id="input6" name="parameter" value="12345">
+      <button>Submit</button>
+    </form>
+  </div>
+
+
+  <!-- Пример 11 Привязка label к Submit -->
+  <div>
+    <p>
+      11. Пример привязки label к Submit с использованием 'for=' (при нажатии на label фокус переходит на Submit)
+    </p>
+    <form action="https://www.w3schools.com/action_page.php" target="_blank">
+      <label for="input7">Please, enter parameter</label>
+      <input type="text" id="input7" name="parameter" value="param_1">
+      <input type="text" id="input8" name="value" value="12345">
+      <button>Submit</button>
+    </form>
+  </div>
+
+  <!-- Пример 12 Использование input внутри label -->
+  <div>
+    <p>
+      12. Пример использования input внутри label
+    </p>
+    <form action="https://www.w3schools.com/action_page.php" method="get" target="_blank">
+      <label>Please, enter parameter <input type="text" id="input9" name="parameter" value="param_1"> </label>
+      <button>Submit</button>
+    </form>
+  </div>
+
+  <!-- Пример 13 Использование fieldset для обертки полей ввода input -->
+  <div>
+    <p>
+      13. Пример использования fieldset для обертки полей ввода input
+    </p>
+    <form action="https://www.w3schools.com/action_page.php" method="get" target="_blank">
+      <fieldset>
+        <legend>Sending a parameter</legend>
+        <label>Please, enter parameter <input type="text" id="input10" name="parameter" value="param_1"> </label>
+        <label>Please, enter value <input type="text" id="input11" name="value" value="1000"> </label>
+      </fieldset>
+      <button>Submit</button>
+
+    </form>
+  </div>
+
+    <!-- Пример 14 Использование placeholder в input -->
+    <div>
+      <p>
+        14. Пример использования placeholder в input
+      </p>
+      <form action="https://www.w3schools.com/action_page.php" target="_blank">
+        <label for="input12">Please, enter parameter and value:</label>
+        <input type="text" id="input12" name="parameter" value="" placeholder="parameter">
+        <input type="text" id="input13" name="value" value="" placeholder="value">
+        <button>Submit</button>
+      </form>
+    </div>
+
+    <!-- Пример 15 Использование стилей в input -->
+    <div>
+      <p>
+        15. Пример использования стилей в input
+      </p>
+      <form action="https://www.w3schools.com/action_page.php" target="_blank">
+        <label for="input14">Please, enter parameter and value:</label>
+        <input type="text" id="input14" name="parameter" value="" placeholder="parameter" required>
+        <button>Submit</button>
+      </form>
+    </div>
+
+
+</body>
+
+</html>

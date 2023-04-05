@@ -1,0 +1,17 @@
+#input14 {
+    color: red; /* цвет курсора и текста в input*/
+}
+
+/* Использование псевдоэлемента для задания цвета в placeholder в #input14 */
+#input14::placeholder {
+    color: green;
+}
+
+/* Для input14 установлено свойство requiried и если поле не заполнено - выделяем его */
+#input14:invalid {
+    border: red solid 2px;
+}
+
+.verdana-text {
+  font: Verdana;
+}
