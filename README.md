@@ -11,7 +11,7 @@ Demo
 2. Блочные элементы: параграфы, списки, pre, div, заголовки, таблицы. Строчные элементы: a, b, strong, i, em, картинки, span https://code-basics.com/ru/languages/html/lessons/block
 3. Начертание текста: жирное и курсивное https://code-basics.com/ru/languages/html/lessons/text-style 
 4. Списки: маркированный и нумерованный, вложенные списки https://code-basics.com/ru/languages/html/lessons/lists https://code-basics.com/ru/languages/html/lessons/nested-lists 
-5. Таблицы: область таблицы, шапка, тело, строка, ячейка, объединение ячеек https://code-basics.com/ru/languages/html/lessons/table https://code-basics.com/ru/languages/html/lessons/colspan-rowspan  
+5. Таблицы: область таблицы, шапка, тело, строка, ячейка, объединение ячеек https://github.com/sproshchaev/html-css/tree/main/table 
 6. Специальные символы https://code-basics.com/ru/languages/html/lessons/special-characters
 7. Ссылки, фавиконки (link) https://code-basics.com/ru/languages/html/lessons/links https://code-basics.com/ru/languages/html/lessons/link 
 8. Форматированный текст, вставка примера кода в html https://code-basics.com/ru/languages/html/lessons/pre
