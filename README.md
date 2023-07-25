@@ -70,5 +70,7 @@ Demo
 
 32. Media Queries & Responsive https://github.com/sproshchaev/html-css/tree/main/media-queries
 
+33. Создание заголовков веб-сайтов с помощью CSS Flexbox 
+
 ### References
 1. HTMLBASE - самый современный справочник по HTML и CSS https://htmlbase.ru/

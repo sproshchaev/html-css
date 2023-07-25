@@ -1,0 +1,115 @@
+@font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Forum';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/forum-v16-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+  
+@font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/inter-v12-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+@font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    src: url('../fonts/inter-v12-latin-700.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+  
+html {
+    box-sizing: border-box;
+}
+
+*, *::before, *::after {
+    box-sizing: inherit;
+} 
+
+header {
+    width: 1440px;
+    height: 95px;
+    background-color: brown; 
+    display: flex;
+    margin: auto; /* Заголовок остается по центру при увеличении масштаба */
+    align-items: center; /* Выравнивание всех элементов по вертикали */
+}
+
+.margin-left {
+    width: 20px;
+    height: 90px;
+    background-color: black;
+}
+
+.wrapper-h1 {
+    width: 294px;
+    height: 90px;
+    background-color: blue;
+    display: flex; /* Выравнивание текста заголовка по вертикали (1/2) */
+}
+
+h1 {
+    margin: auto; /* Выравнивание текста заголовка по вертикали (2/2) */
+    /* Параметры шрифта */
+    color: #FFFFFF; 
+    font-family: 'Forum';
+    font-style: normal;
+    font-size: 31.34px;
+    line-height: 50px;
+    font-weight: normal;
+    letter-spacing: normal;
+}
+
+.margin-center {
+    width: 454px;
+    height: 90px;
+    background-color: black;
+}
+
+nav {
+    height: 90px;
+    background-color: blue;
+    display: flex; /* Выравнивание по центру (вертикаль) (1/2)*/
+}
+
+ul,
+li {
+    margin: auto; /* Выравнивание по центру (вертикаль) (2/2)*/
+    padding: 0px; /* Прижатие элементов списка к левому краю */
+    display: flex; /* Горизонтальное расположение элементов */
+    gap: 30px; /* Расстояние между элементами */
+    /* Параметры шрифта */
+    color: #FFFFFF; 
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 19.6px;
+    line-height: 50px;
+    font-weight: normal;
+    letter-spacing: normal;
+}
+
+.nav-item-href {
+    color: #FFFFFF;
+    text-decoration: none; /* Убрать подчеркивание */
+}
+
+.margin-right {
+    width: 40px;
+    height: 90px;
+    background-color: black;
+}
+
+.logo {
+    width: 28px;
+    height: 28px;
+}
+
+.margin-logo-right {
+    width: 31px;
+    height: 90px;
+    background-color: black;
+}
